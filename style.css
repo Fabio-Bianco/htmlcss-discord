@@ -1,0 +1,164 @@
+
+/*Reset*/
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*Barra di navigazione*/
+.navbar{
+    background-color: #add8e6;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+.navbar>av{
+    background-color: #daa520;
+    height: 40px;
+    width: 700px;
+    border-style: dashed;
+}
+.navbar{
+    display: flex;
+}
+
+.logo{
+    display: flex;
+}
+.menu{
+    display: flex;
+}
+
+.login{
+    display: flex;
+    justify-content: end;
+}
+
+/*main*/
+.headcontainer{
+    background-color: blue;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.box{
+    background-color: #ee82ee;
+    width: 800px;
+    height: 300px;
+    border-style: dashed;
+    display: flex;
+} 
+.sezb{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.big{
+     background-color: #1e90ff;
+     height: 300px;
+     width: 700px;
+     border-style: dashed;
+     padding-right: 0%;
+     display: inline-flex;
+}
+.small{
+    background-color: #ffc0cb;
+    height: 300px;
+    width: 300px;
+    border-style: dashed;
+    display: inline-flex; 
+}
+ .sezc{
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+ }
+ .sezd{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+ }
+.footcontainer{
+    background-color: gray;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+.box2{
+
+    background-color: green;
+    width: 1000px;
+    height: 700px;
+    border-style: dashed;
+    display: flex;
+}
+.fathercontainer{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    
+ 
+}
+.lastbox{
+
+    background-color: #f08080;
+    width: 1000px;
+    height: 700px;
+    border-style: dashed;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    
+}
+
+.ultimobox{
+    background-color: #20b2aa;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: dashed  
+} 
+
+.uno-due-tre-quattro{
+
+    height: 700px;
+    width: auto;
+    display: flex;
+    flex-wrap: wrap;
+    border-style: dashed
+}
+
+.ultimobox{
+    background-color: #20b2aa;
+    display: flex;
+    border-style: dashed  
+} 
+
+.final{
+    background-color: black;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    justify-content: center;
+}
+  
+.navfinale{
+ background-color: #add8e6;
+width: 700px;
+display: inline-flex;
+justify-content: end;
+}
+
+
