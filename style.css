@@ -49,11 +49,11 @@
 
 
 .h1{
-    margin bottom: 30px;
+    margin-bottom: 30px;
 }
 
 .p{
-    margin bottom: 30px;
+   margin-bottom: 30px;
 
 }
 
@@ -95,12 +95,17 @@ align-items: center;
     justify-content: center;
 }
 .big{
-     background-color: #1e90ff;
+   
      height: 300px;
      width: 700px;
-     border-style: dashed;
-     padding-right: 0%;
+     padding: 40px;
      display: inline-flex;
+}
+
+h2{
+    font-size: 40px;
+    line-height: 50px;
+    margin-bottom: 30px;
 }
 .small{
   
@@ -130,13 +135,24 @@ align-items: center;
     display: flex;
     justify-content: center;
 }
+
+.h2{
+    display: inline;
+}
+
+
+.h3{
+    background-image: url(img/stars.svg) ;
+    background-image: top center;
+    padding: 50px;
+    font-size: 25px;
+}
 .box2{
 
     background-color: green;
+    text-align: center;
     width: 1000px;
     height: 700px;
-    border-style: dashed;
-    display: flex;
 }
 .fathercontainer{
     background-color: black;
